@@ -1,9 +1,11 @@
-# js-simple-typing-game
+# typing-speed-test
 
-This is a typing game created using HTML, CSS and JavaScript that can be run in the browser.
+This is a typing spped test game created using HTML, CSS and JavaScript.
 
-A guide was written for the GeeksForGeeks Technical Scripter contest where the process is described and the code is explained. Check out: [Design a typing speed test game using JavaScript](https://www.geeksforgeeks.org/design-a-typing-speed-test-game-using-javascript/)
+## Explanation
 
-## Demonstration
+### This is the initial image when we start typing quotes and if we mistakken it is shown in red color otherwise green.
+![Picture](images/image1.png "Optional title")
 
-![Preview](images/demonstration.gif "Demonstration GIF")
+### This image shows aobut end of 60sec , when it shows cpm, wpm, accuracy and total errors.
+![Picture](images/image2.png "Optional title")
